@@ -615,3 +615,23 @@ atau main content muncul), lalu ambil screenshot.
 - [Playwright Official Docs](https://playwright.dev)
 - [Repository SelempangKu](https://github.com/R4hm4tHid4y4t/PROYEK-SEMESTER-5)
 - [Website SelempangKu](https://r4hid2307.alwaysdata.net/)
+
+---
+
+## 📊 Hasil Pengujian (Test Reports)
+
+Berikut adalah bukti bahwa seluruh rangkaian pengujian (test suite) telah berhasil dijalankan pada berbagai lingkungan peramban (browser) menggunakan Playwright:
+
+### 1. Desktop Report (Chromium)
+![Chromium Desktop Test Result](./assets/playwright-report-chromium-desktop.png)
+*Status: 🟢 PASSED - Semua fitur navigasi dan fungsionalitas utama berjalan lancar di desktop.*
+
+### 2. Mobile Report (Google Chrome)
+![Mobile Chrome Test Result](./assets/playwright-report-mobile-chrome.png)
+*Status: 🟢 PASSED - Tampilan responsif dan fitur pada emulator Android (Chrome) berfungsi dengan baik.*
+
+### 3. Mobile Report (Apple Safari)
+![Mobile Safari Test Result](./assets/playwright-report-mobile-chrome_dan_report-mobile-safari.png)
+*Status: 🟢 PASSED - Verifikasi pada engine WebKit (Safari) menunjukkan konsistensi tata letak dan performa.*
+
+---
