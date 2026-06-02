@@ -634,4 +634,7 @@ Berikut adalah bukti bahwa seluruh rangkaian pengujian (test suite) telah berhas
 ![Mobile Safari Test Result](./assets/playwright-report-mobile-chrome_dan_report-mobile-safari.png)
 *Status: 🟢 PASSED - Verifikasi pada engine WebKit (Safari) menunjukkan konsistensi tata letak dan performa.*
 
+### 4. Detail Pengujian yang Dilewati (Skipped)
+![Test Skipped Details](./assets/playwright-report-skipped-details.png)
+*Status: ⚪ SKIPPED - 3 pengujian pada validasi form sengaja dilewati secara otonom oleh sistem untuk menghindari false-negative karena memerlukan state login/navigasi tertentu[cite: 2].*
 ---
